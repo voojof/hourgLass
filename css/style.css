@@ -393,15 +393,15 @@ a {
   text-decoration: none; }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-family: "Open Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif; }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   font-family: "Open Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif; }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-family: "Open Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif; }
 
 h4 {
@@ -453,7 +453,7 @@ h6 {
   float: left; }
 
 #primary {
-  max-width: 850px;
+  max-width: 650px;
   margin: 0 auto; }
 
 @media only screen and (max-width: 750px) {
@@ -524,7 +524,7 @@ h6 {
     padding-top: .5em; }
   .post .post-header .post-title {
     margin: 0 0 10px;
-    line-height: 1.4;
+    line-height: 3;
     font-size: 1.3em;
     font-weight: 400;
     font-family: "Open Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif; }
